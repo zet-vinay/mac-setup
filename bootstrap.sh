@@ -40,14 +40,14 @@ log "🧠 Starting Mac setup automation..."
 
 # === Phase 1: Core Tools & Environment ===
 source "$MODULE_DIR/01-core.sh"
-run_if_not_done "homebrew_installed" install_homebrew
-run_if_not_done "warp_installed" install_warp
-run_if_not_done "ohmyzsh_installed" setup_ohmyzsh
-run_if_not_done "zsh_plugins_installed" install_zsh_plugins
-run_if_not_done "directory_structure_created" create_directory_structure
-run_if_not_done "vscode_installed" install_vscode
-run_if_not_done "vscode_extensions_installed" install_vscode_extensions
-run_if_not_done "git_ssh_configured" setup_git_ssh
+run_if_not_done "core setup" core_setup
+# run_if_not_done "warp_installed" install_warp
+# run_if_not_done "ohmyzsh_installed" setup_ohmyzsh
+# run_if_not_done "zsh_plugins_installed" install_zsh_plugins
+# run_if_not_done "directory_structure_created" create_directory_structure
+# run_if_not_done "vscode_installed" install_vscode
+# run_if_not_done "vscode_extensions_installed" install_vscode_extensions
+# run_if_not_done "git_ssh_configured" setup_git_ssh
 
 log "📦 Phase 1 complete. Dev tools & shell ready."
 
