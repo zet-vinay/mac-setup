@@ -1,0 +1,250 @@
+{
+    largesize = 41;
+    "last-analytics-stamp" =     (
+        "765100853.510083"
+    );
+    lastShowIndicatorTime = "765456936.511274";
+    loc = "en_US:IN";
+    magnification = 1;
+    "mod-count" = 26;
+    "persistent-apps" =     (
+                {
+            GUID = 2242887752;
+            "tile-data" =             {
+                book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.launchpad.launcher";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Launchpad.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Launchpad;
+                "file-mod-date" = 3821533071;
+                "file-type" = 169;
+                "is-beta" = 0;
+                "parent-mod-date" = 3821533071;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2242887753;
+            "tile-data" =             {
+                book = {length = 1116, bytes = 0x626f6f6b 5c040000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.Safari";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Safari;
+                "file-mod-date" = 3824088070;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3824088070;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2242887754;
+            "tile-data" =             {
+                book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.MobileSMS";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Messages.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Messages;
+                "file-mod-date" = 3821533071;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3821533071;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2242887755;
+            "tile-data" =             {
+                book = {length = 572, bytes = 0x626f6f6b 3c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.mail";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Mail.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Mail;
+                "file-mod-date" = 3824100362;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3824100362;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2242887758;
+            "tile-data" =             {
+                book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.FaceTime";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/FaceTime.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = FaceTime;
+                "file-mod-date" = 3821533071;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3821533071;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2242887759;
+            "tile-data" =             {
+                book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.iCal";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Calendar.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Calendar;
+                "file-mod-date" = 3821533071;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3821533071;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2242887762;
+            "tile-data" =             {
+                book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.Notes";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Notes.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Notes;
+                "file-mod-date" = 3821533071;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3821533071;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2242887767;
+            "tile-data" =             {
+                book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.AppStore";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/App%20Store.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "App Store";
+                "file-mod-date" = 3824100362;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3824100362;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2242887768;
+            "tile-data" =             {
+                book = {length = 584, bytes = 0x626f6f6b 48020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.systempreferences";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/System%20Settings.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "System Settings";
+                "file-mod-date" = 3824100362;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3824100362;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3404128884;
+            "tile-data" =             {
+                book = {length = 560, bytes = 0x626f6f6b 30020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.microsoft.teams2";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Microsoft%20Teams.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Microsoft Teams";
+                "file-mod-date" = 70484237778261;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 244181306622244;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1894607306;
+            "tile-data" =             {
+                book = {length = 620, bytes = 0x626f6f6b 6c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.Terminal";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/Utilities/Terminal.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Terminal;
+                "file-mod-date" = 0;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 0;
+            };
+            "tile-type" = "file-tile";
+        }
+    );
+    "persistent-others" =     (
+                {
+            GUID = 2242887769;
+            "tile-data" =             {
+                arrangement = 2;
+                book = {length = 636, bytes = 0x626f6f6b 7c020000 00000410 30000000 ... 04000000 00000000 };
+                displayas = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/apple/Downloads/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Downloads;
+                "file-mod-date" = 137756309997839;
+                "file-type" = 2;
+                "is-beta" = 0;
+                "parent-mod-date" = 187775499127318;
+                preferreditemsize = "-1";
+                showas = 1;
+            };
+            "tile-type" = "directory-tile";
+        }
+    );
+    "recent-apps" =     (
+    );
+    region = IN;
+    "show-recents" = 0;
+    showAppExposeGestureEnabled = 1;
+    showDesktopGestureEnabled = 1;
+    showLaunchpadGestureEnabled = 1;
+    tilesize = 34;
+    "trash-full" = 1;
+    version = 1;
+    "wvous-bl-corner" = 4;
+    "wvous-bl-modifier" = 0;
+    "wvous-br-corner" = 14;
+    "wvous-br-modifier" = 0;
+    "wvous-tl-corner" = 3;
+    "wvous-tl-modifier" = 0;
+    "wvous-tr-corner" = 2;
+    "wvous-tr-modifier" = 0;
+}

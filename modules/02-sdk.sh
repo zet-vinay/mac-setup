@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # === PHASE 2 — FLUTTER, ANDROID STUDIO, XCODE ===
+log() {
+  echo "[$(date '+%H:%M:%S')] $1"
+}
 
 install_flutter() {
   log "📦 Installing Flutter SDK..."

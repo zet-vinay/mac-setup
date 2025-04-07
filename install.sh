@@ -1,4 +1,7 @@
 #!/bin/bash
+log() {
+  echo "[$(date '+%H:%M:%S')] $1"
+}
 
 REPO_URL="https://github.com/zet-vinay/mac-setup.git"
 TARGET_DIR="$HOME/mac-setup"
